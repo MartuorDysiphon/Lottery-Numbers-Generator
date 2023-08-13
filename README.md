@@ -1,6 +1,7 @@
 # MartuorDysiphon Lottery Number Generator
 
 Welcome to the MartuorDysiphon Lottery Number Generator README! This C# application is designed to generate lottery numbers, including a bonus ball, for various lottery games. The code provides a simple and interactive console-based interface for users to input their information and preferences to generate lottery numbers.
+![Screenshot (2)](https://github.com/MartuorDysiphon/Lottery-Numbers-Generator/assets/129260867/b3d9e2f5-a84c-437c-ad41-9e40b42f7e6e)
 
 ## Table of Contents
 
