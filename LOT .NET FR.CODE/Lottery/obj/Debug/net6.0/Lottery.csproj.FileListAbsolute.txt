@@ -1,0 +1,30 @@
+C:\Users\KATLEGO MARTUOR MJ\Desktop\Lottery\Lottery\bin\Debug\net6.0\Lottery.exe
+C:\Users\KATLEGO MARTUOR MJ\Desktop\Lottery\Lottery\bin\Debug\net6.0\Lottery.deps.json
+C:\Users\KATLEGO MARTUOR MJ\Desktop\Lottery\Lottery\bin\Debug\net6.0\Lottery.runtimeconfig.json
+C:\Users\KATLEGO MARTUOR MJ\Desktop\Lottery\Lottery\bin\Debug\net6.0\Lottery.dll
+C:\Users\KATLEGO MARTUOR MJ\Desktop\Lottery\Lottery\bin\Debug\net6.0\Lottery.pdb
+C:\Users\KATLEGO MARTUOR MJ\Desktop\Lottery\Lottery\obj\Debug\net6.0\Lottery.csproj.AssemblyReference.cache
+C:\Users\KATLEGO MARTUOR MJ\Desktop\Lottery\Lottery\obj\Debug\net6.0\Lottery.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KATLEGO MARTUOR MJ\Desktop\Lottery\Lottery\obj\Debug\net6.0\Lottery.AssemblyInfoInputs.cache
+C:\Users\KATLEGO MARTUOR MJ\Desktop\Lottery\Lottery\obj\Debug\net6.0\Lottery.AssemblyInfo.cs
+C:\Users\KATLEGO MARTUOR MJ\Desktop\Lottery\Lottery\obj\Debug\net6.0\Lottery.csproj.CoreCompileInputs.cache
+C:\Users\KATLEGO MARTUOR MJ\Desktop\Lottery\Lottery\obj\Debug\net6.0\Lottery.dll
+C:\Users\KATLEGO MARTUOR MJ\Desktop\Lottery\Lottery\obj\Debug\net6.0\refint\Lottery.dll
+C:\Users\KATLEGO MARTUOR MJ\Desktop\Lottery\Lottery\obj\Debug\net6.0\Lottery.pdb
+C:\Users\KATLEGO MARTUOR MJ\Desktop\Lottery\Lottery\obj\Debug\net6.0\Lottery.genruntimeconfig.cache
+C:\Users\KATLEGO MARTUOR MJ\Desktop\Lottery\Lottery\obj\Debug\net6.0\ref\Lottery.dll
+C:\Users\KATLEGO MARTUOR MJ\Documents\AAAINFORMATION_TECHNOLOGY\My Codes\Lottery\Lottery\bin\Debug\net6.0\Lottery.exe
+C:\Users\KATLEGO MARTUOR MJ\Documents\AAAINFORMATION_TECHNOLOGY\My Codes\Lottery\Lottery\bin\Debug\net6.0\Lottery.deps.json
+C:\Users\KATLEGO MARTUOR MJ\Documents\AAAINFORMATION_TECHNOLOGY\My Codes\Lottery\Lottery\bin\Debug\net6.0\Lottery.runtimeconfig.json
+C:\Users\KATLEGO MARTUOR MJ\Documents\AAAINFORMATION_TECHNOLOGY\My Codes\Lottery\Lottery\bin\Debug\net6.0\Lottery.dll
+C:\Users\KATLEGO MARTUOR MJ\Documents\AAAINFORMATION_TECHNOLOGY\My Codes\Lottery\Lottery\bin\Debug\net6.0\Lottery.pdb
+C:\Users\KATLEGO MARTUOR MJ\Documents\AAAINFORMATION_TECHNOLOGY\My Codes\Lottery\Lottery\obj\Debug\net6.0\Lottery.csproj.AssemblyReference.cache
+C:\Users\KATLEGO MARTUOR MJ\Documents\AAAINFORMATION_TECHNOLOGY\My Codes\Lottery\Lottery\obj\Debug\net6.0\Lottery.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KATLEGO MARTUOR MJ\Documents\AAAINFORMATION_TECHNOLOGY\My Codes\Lottery\Lottery\obj\Debug\net6.0\Lottery.AssemblyInfoInputs.cache
+C:\Users\KATLEGO MARTUOR MJ\Documents\AAAINFORMATION_TECHNOLOGY\My Codes\Lottery\Lottery\obj\Debug\net6.0\Lottery.AssemblyInfo.cs
+C:\Users\KATLEGO MARTUOR MJ\Documents\AAAINFORMATION_TECHNOLOGY\My Codes\Lottery\Lottery\obj\Debug\net6.0\Lottery.csproj.CoreCompileInputs.cache
+C:\Users\KATLEGO MARTUOR MJ\Documents\AAAINFORMATION_TECHNOLOGY\My Codes\Lottery\Lottery\obj\Debug\net6.0\Lottery.dll
+C:\Users\KATLEGO MARTUOR MJ\Documents\AAAINFORMATION_TECHNOLOGY\My Codes\Lottery\Lottery\obj\Debug\net6.0\refint\Lottery.dll
+C:\Users\KATLEGO MARTUOR MJ\Documents\AAAINFORMATION_TECHNOLOGY\My Codes\Lottery\Lottery\obj\Debug\net6.0\Lottery.pdb
+C:\Users\KATLEGO MARTUOR MJ\Documents\AAAINFORMATION_TECHNOLOGY\My Codes\Lottery\Lottery\obj\Debug\net6.0\Lottery.genruntimeconfig.cache
+C:\Users\KATLEGO MARTUOR MJ\Documents\AAAINFORMATION_TECHNOLOGY\My Codes\Lottery\Lottery\obj\Debug\net6.0\ref\Lottery.dll
